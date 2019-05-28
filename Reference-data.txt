@@ -1,0 +1,8 @@
+reference :
+https://www.kaggle.com/kimy07/eurusd-15-minute-interval-price-prediction/data
+
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+
+
+https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+
