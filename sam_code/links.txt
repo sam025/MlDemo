@@ -1,0 +1,8 @@
+https://www.analyticsvidhya.com/blog/2018/08/auto-arima-time-series-modeling-python-r/#
+https://www.kaggle.com/kimy07/eurusd-15-minute-interval-price-prediction/data
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
+https://www.analyticsvidhya.com/blog/2018/08/auto-arima-time-series-modeling-python-r/  
